@@ -47,9 +47,10 @@ GitHub repository at [Tecsmith/arduino-pro-micro-screw-terminal](https://github.
 * PCB design (in EAGLE): [Tecsmith/arduino-pro-micro-screw-terminal/EAGLE/pro-micro-screw-terminal-v1.0.brd](https://github.com/Tecsmith/arduino-pro-micro-screw-terminal/blob/main/EAGLE/pro-micro-screw-terminal-v1.0.brd)
 
 
-| Top | Bottom |
-|:---:|:------:|
+|            Top               |            Bottom            |
+|:----------------------------:|:----------------------------:|
 | <img src="img/prom-top.png"> | <img src="img/prom-btm.png"> |
+
 <p align="center">Initial prototype built by JCLPCB</p>
 
 
