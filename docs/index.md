@@ -4,8 +4,9 @@
 
 GitHub repository at [Tecsmith/arduino-pro-micro-screw-terminal](https://github.com/Tecsmith/arduino-pro-micro-screw-terminal)
 
+----------
 
-## Specifications
+## Features & Specifications
 
 - Simple breakout in the Qwiic board form factor exposing Pro Micro / Pro Mini pins to screw terminals
 - Supports many "pro micro" based boards, e.g.:
@@ -17,6 +18,7 @@ GitHub repository at [Tecsmith/arduino-pro-micro-screw-terminal](https://github.
 - Standard I<sup>2</sup>C breakout pins
 - Remote reset button via JST-PH-2 header
 
+----------
 
 ## On Board Jumpers
 
@@ -35,6 +37,7 @@ GitHub repository at [Tecsmith/arduino-pro-micro-screw-terminal](https://github.
 - Connected _(default)_: LED shows power state
 - Cut: LED disabled
 
+----------
 
 ## Manufacturing
 -------------
